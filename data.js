@@ -12,7 +12,6 @@ const SITE_DATA = {
     department: "Computer Science Department",
     university: "Bar-Ilan University",
     photo: "img/profile.jpg",
-    // Email is encoded to prevent scraping - decoded at runtime
     emailEncoded: "c29tZWNoYUBiaXUuYWMuaWw=",
     office: "Building 503, Room 203",
     links: {
@@ -25,7 +24,7 @@ const SITE_DATA = {
   // ----------------
   // ABOUT
   // ----------------
-  about: `Hi! I am an Assistant Professor (Senior Lecturer) at the <a href="https://cs.biu.ac.il/" target="_blank" class="text-primary-600 hover:underline">Computer Science Department</a> at <a href="https://www.biu.ac.il/" target="_blank" class="text-primary-600 hover:underline">Bar-Ilan University</a>. <br><br> My research focuses on building autonomous analytical agents for exploring, analyzing, and explaining structured data. I am particularly interested in studying the capabilities and limitations of large language models in the context of tabular data, and in developing principled methods that bridge statistical analysis, data management, and AI.
+  about: `Hi! I am a Senior Lecturer at the <a href="https://cs.biu.ac.il/" target="_blank" class="text-primary-600 hover:underline">Computer Science Department</a> at <a href="https://www.biu.ac.il/" target="_blank" class="text-primary-600 hover:underline">Bar-Ilan University</a>. <br><br> My research focuses on building autonomous analytical agents for exploring, analyzing, and explaining structured data. I am particularly interested in studying the capabilities and limitations of large language models in the context of tabular data, and in developing principled methods that bridge statistical analysis, data management, and AI.
   <br><br>
   Prior to joining BIU, I completed my PhD at <a href="https://www.tau.ac.il/" target="_blank" class="text-primary-600 hover:underline">Tel Aviv University</a> under the supervision of <a href="https://www.cs.tau.ac.il/~milo/" target="_blank" class="text-primary-600 hover:underline">Prof. Tova Milo</a>. Before that, I completed a BSc with a double major in Middle Eastern Studies and Computer Science at <a href="https://www.haifa.ac.il/" target="_blank" class="text-primary-600 hover:underline">Haifa University</a>, as part of the Havatzalot program.`,
 
