@@ -25,8 +25,9 @@ const SITE_DATA = {
   // ----------------
   // ABOUT
   // ----------------
-  about: `My research focuses on building autonomous analytical agents for exploring, analyzing, and explaining tabular data. 
-  I am particularly interested in studying the capabilities and limitations of large language models in the context of structured data, and in developing principled methods that bridge statistical analysis, data management, and AI.`,
+  about: `I am an Assistant Professor (Senior Lecturer) at the <a href="https://cs.biu.ac.il/" target="_blank" class="text-primary-600 hover:underline">Computer Science Department</a> at <a href="https://www.biu.ac.il/" target="_blank" class="text-primary-600 hover:underline">Bar-Ilan University</a>. My research focuses on building autonomous analytical agents for exploring, analyzing, and explaining tabular data. I am particularly interested in studying the capabilities and limitations of large language models in the context of structured data, and in developing principled methods that bridge statistical analysis, data management, and AI.
+  <br><br>
+  Prior to joining BIU, I completed my PhD at <a href="https://www.tau.ac.il/" target="_blank" class="text-primary-600 hover:underline">Tel Aviv University</a> under the supervision of <a href="https://www.cs.tau.ac.il/~milo/" target="_blank" class="text-primary-600 hover:underline">Prof. Tova Milo</a>. Before that, I completed a BSc with a double major in Middle Eastern Studies and Computer Science at <a href="https://www.haifa.ac.il/" target="_blank" class="text-primary-600 hover:underline">Haifa University</a>, as part of the Havatzalot program.`,
 
   // ----------------
   // RESEARCH INTERESTS

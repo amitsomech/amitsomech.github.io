@@ -79,7 +79,7 @@ function renderProfile() {
 // ABOUT
 // ----------------
 function renderAbout() {
-    document.getElementById('about-text').textContent = SITE_DATA.about;
+    document.getElementById('about-text').innerHTML = SITE_DATA.about;
     
     const interestsContainer = document.getElementById('research-interests');
     interestsContainer.innerHTML = SITE_DATA.researchInterests.map(interest => `
