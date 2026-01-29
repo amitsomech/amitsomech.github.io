@@ -13,7 +13,7 @@ const SITE_DATA = {
     university: "Bar-Ilan University",
     photo: "img/profile.jpg",
     // Email is encoded to prevent scraping - decoded at runtime
-    emailEncoded: "c29tZWNoYUBiaXUuYWMuaWw=", // base64 of somecha@biu.ac.il
+    emailEncoded: "c29tZWNoYUBiaXUuYWMuaWw=",
     office: "Building 503, Room 203",
     links: {
       scholar: "https://scholar.google.com/citations?user=GFIUo14AAAAJ&hl=en",
